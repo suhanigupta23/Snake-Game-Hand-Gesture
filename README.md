@@ -23,6 +23,8 @@ Check it out on GitHub: [Snake Game Hand Gesture](https://github.com/suhanigupta
 
 ---
 
+<img width="1252" height="609" alt="Screenshot 2025-11-24 at 11 41 11 PM" src="https://github.com/user-attachments/assets/465d631f-93a4-4879-9ba4-4317c01ee145" />
+
 ## 🛠️ Quick Setup & Run
 
 Open a terminal and follow these commands **after cloning the repository**:
@@ -50,4 +52,3 @@ pip install pygame
 # Run the game
 python3 opencv_control.py
 
-<img width="1252" height="609" alt="Screenshot 2025-11-24 at 11 41 11 PM" src="https://github.com/user-attachments/assets/465d631f-93a4-4879-9ba4-4317c01ee145" />
