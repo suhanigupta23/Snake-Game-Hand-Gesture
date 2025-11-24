@@ -23,7 +23,7 @@ Check it out on GitHub: [Snake Game Hand Gesture](https://github.com/suhanigupta
 
 ---
 
-## 🛠️ Quick Setup & Run (Copy-Paste All)
+## 🛠️ Quick Setup & Run
 
 Open a terminal and follow these commands **after cloning the repository**:
 
@@ -37,8 +37,9 @@ python3 -m venv gesture-env
 # Activate virtual environment
 # Linux / MacOS
 source gesture-env/bin/activate
+
 # Windows
-# gesture-env\Scripts\activate
+gesture-env\Scripts\activate
 
 # Install dependencies
 pip install opencv-python
