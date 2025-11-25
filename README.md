@@ -2,8 +2,6 @@
 
 Play the classic Snake Game using **hand gestures**! Control the snake in real-time using your webcam with OpenCV, MediaPipe, and Pygame.  
 
-Check it out on GitHub: [Snake Game Hand Gesture](https://github.com/suhanigupta23/Snake-Game-Hand-Gesture/upload)
-
 ---
 
 ## 🎮 Features
